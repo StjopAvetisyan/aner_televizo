@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG"
+#EXTM3U url-tvg="http://epg.one/epg2.xml.gz"
 #EXTINF:-1 tvg-id="Russia24.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png" group-title="News",Россия 24 (576p)
 https://uiptv.do.am/1ufc/000000006/playlist.m3u8
 #EXTINF:-1 tvg-id="Zvezda.ru@SD" tvg-logo="https://i.imgur.com/4PAcpfM.png" group-title="General",Звезда (1080p)
